@@ -2,6 +2,10 @@
 
 Personal [Gentle Shell](https://github.com/Gentleman-Programming/gentle-shell) extensions: a better looking transcript — framed answers, framed runtime notices, a float prompt inside fullscreen, and the Gentleman's greeting.
 
+![demo](docs/demo.png)
+
+*Demo image rendered from the real components with invented text — no session data.*
+
 ## What each file does
 
 | File | What it does |
