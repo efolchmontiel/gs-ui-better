@@ -2,7 +2,7 @@
 
 Personal [Gentle Shell](https://github.com/Gentleman-Programming/gentle-shell) extensions: a better looking transcript — framed answers, framed runtime notices, a float prompt inside fullscreen, and the Gentleman's greeting.
 
-![demo](https://raw.githubusercontent.com/efolchmontiel/gs-ui-better/main/docs/demo.png)
+![demo](docs/demo.png)
 
 *Illustrative demo: the theme palette, the real greeting assets and the real glyphs, with invented text. No session data, no personal paths, no model or account information.*
 
