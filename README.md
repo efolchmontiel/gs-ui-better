@@ -4,7 +4,7 @@ Personal [Gentle Shell](https://github.com/Gentleman-Programming/gentle-shell) e
 
 ![demo](docs/demo.png)
 
-*Demo image rendered from the real components with invented text — no session data.*
+*Illustrative demo: the theme palette, the real greeting assets and the real glyphs, with invented text. No session data, no personal paths, no model or account information.*
 
 ## What each file does
 
